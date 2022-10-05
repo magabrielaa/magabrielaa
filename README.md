@@ -9,7 +9,7 @@ I have professional experience in the design, implementation and evaluation of p
 - Web Development (HTML, CSS, JS, React)
 - Data Visualization (D3.js)
 
-## How to reach me 📭
+## How to reach me
 
 Feel free to contact me through [Linkedin](https://www.linkedin.com/in/mariagabrielaayala/) or [email](mariagabrielaa@uchicago.edu).
 
