@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello there!
 
 My name is Maria Gabriela Ayala and I am currently an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.uchicago.edu)) '23 candidate at the University of Chicago. I hold a BA in Economics, Chinese, and Italian from Vassar College and a Master in Public Administration ([MPA](https://www.lse.ac.uk/school-of-public-policy)) from the London School of Economics.
 
