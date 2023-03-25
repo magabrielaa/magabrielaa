@@ -6,7 +6,7 @@ I have professional experience in the design, implementation and evaluation of p
 
 ## I'm currently learning
 
-- AWS
+- Mobile App Development with Swift and Kotlin
 - Data Visualization (D3.js)
 
 ## How to reach me
