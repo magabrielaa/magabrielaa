@@ -11,7 +11,7 @@ I have professional experience in the design, implementation and evaluation of p
 
 ## How to reach me
 
-Feel free to contact me through [Linkedin](https://www.linkedin.com/in/mariagabrielaayala/) or [email](mariagabrielaa@uchicago.edu).
+Feel free to contact me through [Linkedin](https://www.linkedin.com/in/mariagabrielaayala/) or email: ayala.mariagabriela@gmail.com
 
 <!--
 **magabrielaa/magabrielaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
