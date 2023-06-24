@@ -9,6 +9,9 @@ I have professional experience in the design, implementation and evaluation of p
 - Mobile App Development with Swift and Kotlin
 - Data Visualization (D3.js)
 
+## Note
+_To adhere to academic integrity regulations and honor professors' intellectual property, school assignment repositories are kept private. Upon request, the code can be shared with potential employers_
+
 ## How to reach me
 
 Feel free to contact me through [Linkedin](https://www.linkedin.com/in/mariagabrielaayala/) or email: ayala.mariagabriela@gmail.com
