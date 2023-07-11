@@ -6,7 +6,11 @@ I have professional experience in the design, implementation and evaluation of p
 
 ## Projects
 
-1. **Data visualization in D3.js:** Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk. [View Project](https://magabrielaa.github.io/data-visualization/final_project/index.html) [See codebase](https://github.com/magabrielaa/data-visualization/tree/main/final_project)
+**DATA VISUALIZATION**
+
+1. Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk. [View Project](https://magabrielaa.github.io/data-visualization/final_project/index.html) [See codebase](https://github.com/magabrielaa/data-visualization/tree/main/final_project)
+
+2. Prototype for participatory budgeting in Chicago, programmed feedback page in D3.js. [See codebase](https://github.com/magabrielaa/ue-pb)
 
 ## I'm currently learning
 
