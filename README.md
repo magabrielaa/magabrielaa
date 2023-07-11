@@ -14,6 +14,8 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 1. Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk. [View Project](https://magabrielaa.github.io/data-visualization/final_project/index.html). [See codebase](https://github.com/magabrielaa/data-visualization/tree/main/final_project)
 
 2. Prototype for participatory budgeting in Chicago, programmed feedback page in D3.js. [See codebase](https://github.com/magabrielaa/ue-pb)
+   
+3. Dashboard on workforce Development, built in Dash with Plotly. _Private repository to safeguard data, please contact me for access._
 
 ### MOBILE APPLICATION DEVELOPMENT
 
