@@ -27,6 +27,8 @@ I have professional experience in the design, implementation and evaluation of p
 6. Divvy Bikes Station Finder, built with REACT. [See codebase](https://github.com/magabrielaa/web-development/tree/main/wookieleaks-space-website)
 <img src="https://github.com/magabrielaa/web-development/blob/main/divvy-bikes/Divvy%20Bikes.gif" width="700" height="400" />
 
+7. CO2 Emissions Cafe, team entry for the UChicago 2023 Uncommon Hacks competition. [See codebase](https://github.com/magabrielaa/co2-emissions-cafe)
+
 ## I'm currently learning
 
 - Mobile App Development with Swift and Kotlin
