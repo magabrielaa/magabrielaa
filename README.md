@@ -34,6 +34,13 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 8. Divvy Bikes Station Finder, built with REACT. [See codebase](https://github.com/magabrielaa/web-development/tree/main/wookieleaks-space-website)
 <img src="https://github.com/magabrielaa/web-development/blob/main/divvy-bikes/Divvy%20Bikes.gif" width="700" height="400" />
 
+### UI/UX
+
+9. Paws Return, prototype for an app to find lost dogs, made in Figma. [View here](https://www.figma.com/proto/13BSVAUa5z9lpgrZkHnlAL/Project-v2?page-id=0%3A1&node-id=1-23&viewport=-2569%2C-548%2C0.69&scaling=scale-down&starting-point-node-id=1%3A23). [Presentation](https://github.com/magabrielaa/ui-ux-design/blob/main/7-paws-return/Paws%20Return%20-%20UI%20_%20UX%20Project.pdf)
+    
+10. Perfect Gift App, prototype for an app, made in Figma. [View here](https://github.com/magabrielaa/ui-ux/tree/main/5-gift-app)
+
+11. Course Registration, website redesign prototype built in Figma. [View here](https://github.com/magabrielaa/ui-ux-design/tree/main/4-course-registration-web)
 
 ## How to reach me
 
