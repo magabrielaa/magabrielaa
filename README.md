@@ -4,6 +4,10 @@ My name is Maria Gabriela Ayala and I am currently an MSc in Computational Analy
 
 I have professional experience in the design, implementation and evaluation of public policies. My interests lie at the intersection between data 📊, technology 💻, and public policy 🏛️ with the aim of improving people's lives and tackle complex social challenges.
 
+## Projects
+
+1. **Data visualization in D3.js:** Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk. [View Project](https://magabrielaa.github.io/data-visualization/final_project/index.html) [See codebase](https://github.com/magabrielaa/data-visualization/tree/main/final_project)
+
 ## I'm currently learning
 
 - Mobile App Development with Swift and Kotlin
