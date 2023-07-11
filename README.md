@@ -20,7 +20,7 @@ I have professional experience in the design, implementation and evaluation of p
 
 ### WEB DEVELOPMENT
 4. Black Jack Simulation in JavaScript. [See codebase](https://github.com/magabrielaa/web-development/tree/main/black-jack%20simulation)
-<img src="https://github.com/magabrielaa/web-development/blob/main/black-jack%20simulation/Black%20Jack%20Simulation.gif" width="1000" height="500" />
+<img src="https://github.com/magabrielaa/web-development/blob/main/black-jack%20simulation/Black%20Jack%20Simulation.gif" width="800" height="500" />
 
 5. Wookieleaks Space Website, retrieving data from 3 RESTful API's. [See codebase](https://github.com/magabrielaa/web-development/tree/main/wookieleaks-space-website)
    
