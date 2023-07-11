@@ -16,7 +16,7 @@ I have professional experience in the design, implementation and evaluation of p
 
 3. FabDogs iOS app built with Swift in XCode. [See codebase](https://github.com/magabrielaa/ios-fabdogs-app)
 
-<img src="https://github.com/magabrielaa/ios-fabdogs-app/blob/main/FabDogs.gif" width="400" height="800" />
+<img src="https://github.com/magabrielaa/ios-fabdogs-app/blob/main/FabDogs.gif" width="300" height="600" />
 
 ### WEB DEVELOPMENT
 4. Black Jack Simulation in JavaScript. [See codebase](https://github.com/magabrielaa/web-development/tree/main/black-jack%20simulation)
