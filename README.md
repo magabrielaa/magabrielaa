@@ -8,9 +8,15 @@ I have professional experience in the design, implementation and evaluation of p
 
 **DATA VISUALIZATION**
 
-1. Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk. [View Project](https://magabrielaa.github.io/data-visualization/final_project/index.html) [See codebase](https://github.com/magabrielaa/data-visualization/tree/main/final_project)
+1. Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk. [View Project](https://magabrielaa.github.io/data-visualization/final_project/index.html). [See codebase](https://github.com/magabrielaa/data-visualization/tree/main/final_project)
 
 2. Prototype for participatory budgeting in Chicago, programmed feedback page in D3.js. [See codebase](https://github.com/magabrielaa/ue-pb)
+
+**MOBILE APPLICATION DEVELOPMENT**
+
+3. FabDogs iOS app built with Swift in XCode. [See codebase](https://github.com/magabrielaa/ios-fabdogs-app)
+
+<img src="https://github.com/magabrielaa/ios-fabdogs-app/blob/main/FabDogs.gif" width="400" height="800" />
 
 ## I'm currently learning
 
