@@ -6,17 +6,26 @@ I have professional experience in the design, implementation and evaluation of p
 
 ## Projects
 
-**DATA VISUALIZATION**
+### DATA VISUALIZATION
 
 1. Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk. [View Project](https://magabrielaa.github.io/data-visualization/final_project/index.html). [See codebase](https://github.com/magabrielaa/data-visualization/tree/main/final_project)
 
 2. Prototype for participatory budgeting in Chicago, programmed feedback page in D3.js. [See codebase](https://github.com/magabrielaa/ue-pb)
 
-**MOBILE APPLICATION DEVELOPMENT**
+### MOBILE APPLICATION DEVELOPMENT
 
 3. FabDogs iOS app built with Swift in XCode. [See codebase](https://github.com/magabrielaa/ios-fabdogs-app)
 
 <img src="https://github.com/magabrielaa/ios-fabdogs-app/blob/main/FabDogs.gif" width="400" height="800" />
+
+### WEB DEVELOPMENT
+4. Black Jack Simulation in JavaScript. [See codebase](https://github.com/magabrielaa/web-development/tree/main/black-jack%20simulation)
+<img src="https://github.com/magabrielaa/web-development/blob/main/black-jack%20simulation/Black%20Jack%20Simulation.gif" width="1000" height="500" />
+
+5. Wookieleaks Space Website, retrieving data from 3 RESTful API's. [See codebase](https://github.com/magabrielaa/web-development/tree/main/wookieleaks-space-website)
+   
+6. Divvy Bikes Station Finder, built with REACT. [See codebase](https://github.com/magabrielaa/web-development/tree/main/wookieleaks-space-website)
+<img src="https://github.com/magabrielaa/web-development/blob/main/divvy-bikes/Divvy%20Bikes.gif" width="700" height="400" />
 
 ## I'm currently learning
 
