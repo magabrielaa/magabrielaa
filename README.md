@@ -35,11 +35,6 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 <img src="https://github.com/magabrielaa/web-development/blob/main/divvy-bikes/Divvy%20Bikes.gif" width="700" height="400" />
 
 
-## I'm currently learning
-
-- Mobile App Development with Swift and Kotlin
-- Data Visualization (D3.js)
-
 ## How to reach me
 
 Feel free to contact me through [Linkedin](https://www.linkedin.com/in/mariagabrielaayala/) or email: ayala.mariagabriela@gmail.com
