@@ -46,7 +46,7 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 ### (5) UI/UX
 
 - [Paws Return app prototype](https://www.figma.com/proto/13BSVAUa5z9lpgrZkHnlAL/Project-v2?page-id=0%3A1&node-id=1-23&viewport=-2569%2C-548%2C0.69&scaling=scale-down&starting-point-node-id=1%3A23) to find lost dogs, made in Figma.
-[Presentation](https://github.com/magabrielaa/ui-ux-design/blob/main/7-paws-return/Paws%20Return%20-%20UI%20_%20UX%20Project.pdf).
+[View presentation](https://github.com/magabrielaa/ui-ux-design/blob/main/7-paws-return/Paws%20Return%20-%20UI%20_%20UX%20Project.pdf).
 
 - [Perfect Gift app prototype](https://github.com/magabrielaa/ui-ux/tree/main/5-gift-app), made in Figma.
 
