@@ -50,7 +50,9 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 ### (6) Others
 
 - Web scraping and web crawler with Beautiful Soup
-- Classification Algorithms: Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression
+- ML Classification Algorithms: Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression
+- Visualizing Avian Biodiversity Using Treemaps with Recursion
+- Polling Simulator
 
 ### (7) UI/UX
 
