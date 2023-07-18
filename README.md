@@ -4,8 +4,7 @@ My name is Maria Gabriela Ayala, I hold an MSc in Computational Analysis & Publi
 
 My interests lie at the intersection between data 📊, technology 💻, and public policy 🏛️ with the aim of improving people's lives and tackle complex social challenges!
 
-## Note
-_To adhere to academic integrity regulations and honor professors' intellectual property, school assignment repositories are kept private. Upon request, the code can be shared with potential employers._
+**Note:** _To adhere to academic integrity regulations and honor professors' intellectual property, school assignment repositories are kept private. Upon request, the code can be shared with potential employers._
 
 ## 🔭 Projects
 
