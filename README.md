@@ -25,6 +25,7 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Note
 _To adhere to academic integrity regulations and honor professors' intellectual property, school assignment repositories are kept private. Upon request, the code can be shared with potential employers_
