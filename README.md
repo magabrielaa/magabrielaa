@@ -19,6 +19,8 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 
 - [Dashboard on violence against people with disabilities](https://github.com/magabrielaa/Invent2Prevent/blob/main/viz/app.py) for the Department of Homeland Security's Invent to Prevent (I2P) competition to reduce target violence and hate crime.
 
+- [Dashboard on vaccine uptake by US county](https://github.com/magabrielaa/proj-python_parser_tongues). The project retrieved vaccine data from the CDC's API and elections data using web scraping. US map built on Plotly Dash.
+
 
 ### (2) Cloud Computing and Large Scale Computing
 
@@ -44,8 +46,12 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 ### (5) Databases
 
 -  REST API of restaurant inspections, linked to database using SQLite and Flask
+
+### (6) Others
+- Web scraping and web crawler with Beautiful Soup
+
   
-### (6) UI/UX
+### (7) UI/UX
 
 - [Paws Return app prototype](https://www.figma.com/proto/13BSVAUa5z9lpgrZkHnlAL/Project-v2?page-id=0%3A1&node-id=1-23&viewport=-2569%2C-548%2C0.69&scaling=scale-down&starting-point-node-id=1%3A23) to find lost dogs, made in Figma.
 [View presentation](https://github.com/magabrielaa/ui-ux-design/blob/main/7-paws-return/Paws%20Return%20-%20UI%20_%20UX%20Project.pdf).
