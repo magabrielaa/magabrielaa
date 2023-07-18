@@ -24,8 +24,8 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 
 ### (2) Cloud Computing and Large Scale Computing
 
-- Genomics Annotation Service REST API using AWS services to upload, annotate, notify, archive, and restore files.
-- [Exploring NYC Taxi Big Data with PySpark](https://github.com/magabrielaa/large-scale-computing/blob/main/07-pyspark/a7.ipynb).
+- Complete Genomics Annotation Service REST API using AWS services to upload, annotate, notify, archive, and restore files.
+- [Large Scale Computing](https://github.com/magabrielaa/large-scale-computing) and cluster computing. Repository contains parallel programming principles, AWS, CPU vs. GPU usage, and PySpark application.
 
 
 ### (3) Mobile Application Development
