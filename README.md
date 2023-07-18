@@ -7,7 +7,7 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
 ## Note
 _To adhere to academic integrity regulations and honor professors' intellectual property, school assignment repositories are kept private. Upon request, the code can be shared with potential employers_
 
-## Projects
+## 🔭 Projects
 
 ### (1) Data Visualiztion
 
@@ -48,9 +48,10 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 -  REST API of restaurant inspections, linked to database using SQLite and Flask
 
 ### (6) Others
-- Web scraping and web crawler with Beautiful Soup
 
-  
+- Web scraping and web crawler with Beautiful Soup
+- Classification Algorithms: Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression
+
 ### (7) UI/UX
 
 - [Paws Return app prototype](https://www.figma.com/proto/13BSVAUa5z9lpgrZkHnlAL/Project-v2?page-id=0%3A1&node-id=1-23&viewport=-2569%2C-548%2C0.69&scaling=scale-down&starting-point-node-id=1%3A23) to find lost dogs, made in Figma.
@@ -61,7 +62,7 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 - [Course Registration website redesign](https://github.com/magabrielaa/ui-ux-design/tree/main/4-course-registration-web) prototype built in Figma.
   
 
-## How to reach me
+## 📫 How to reach me
 
 Feel free to contact me through [Linkedin](https://www.linkedin.com/in/mariagabrielaayala/) or email: ayala.mariagabriela@gmail.com
 
