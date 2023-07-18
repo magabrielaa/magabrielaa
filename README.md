@@ -1,4 +1,4 @@
-# Hello there!
+# Hello there 👋🏽
 
 My name is Maria Gabriela Ayala, I hold an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.uchicago.edu)) from the University of Chicago, a Master in Public Administration ([MPA](https://www.lse.ac.uk/school-of-public-policy)) from the London School of Economics and a BA in Economics, Chinese, and Italian from [Vassar College](https://www.vassar.edu).
 
@@ -9,12 +9,7 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 
 ## Projects
 
-### (1) Cloud Computing and Large Scale Computing
-
-- Genomics Annotation Service REST API using AWS services to upload, annotate, notify, archive, and restore files.
-- [Exploring NYC Taxi Big Data with PySpark](https://github.com/magabrielaa/large-scale-computing/blob/main/07-pyspark/a7.ipynb).
-
-### (2) Data Visualiztion
+### (1) Data Visualiztion
 
 -  [Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk](https://magabrielaa.github.io/data-visualization/final_project/index.html). Data visualization using D3.js to explore poverty patterns in Ecuador. [See code](https://github.com/magabrielaa/data-visualization/tree/main/final_project)
 
@@ -23,6 +18,13 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 - Dashboard on Mexico's workforce Development, built in Dash with Plotly. _Private repository to safeguard government data, please contact me for more information._
 
 - [Dashboard on violence against people with disabilities](https://github.com/magabrielaa/Invent2Prevent/blob/main/viz/app.py) for the Department of Homeland Security's Invent to Prevent (I2P) competition to reduce target violence and hate crime.
+
+
+
+### (2) Cloud Computing and Large Scale Computing
+
+- Genomics Annotation Service REST API using AWS services to upload, annotate, notify, archive, and restore files.
+- [Exploring NYC Taxi Big Data with PySpark](https://github.com/magabrielaa/large-scale-computing/blob/main/07-pyspark/a7.ipynb).
 
 
 ### (3) Mobile Application Development
