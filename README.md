@@ -4,6 +4,10 @@ My name is Maria Gabriela Ayala, I hold an MSc in Computational Analysis & Publi
 
 My interests lie at the intersection between data 📊, technology 💻, and public policy 🏛️ with the aim of improving people's lives and tackle complex social challenges!
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## Note
 _To adhere to academic integrity regulations and honor professors' intellectual property, school assignment repositories are kept private. Upon request, the code can be shared with potential employers_
 
