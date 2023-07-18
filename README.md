@@ -16,7 +16,7 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
 
 - Dashboard on Mexico's workforce Development, built in Dash with Plotly. _Private repository to safeguard government data, please contact me for more information._
 
-- [Dashboard on violence against people with disabilities](https://github.com/magabrielaa/Invent2Prevent/blob/main/viz/app.py) for the Department of Homeland Security's Invent to Prevent (I2P) competition to reduce target violence and hate crime.
+- [Dashboard on violence against people with disabilities]([https://github.com/magabrielaa/Invent2Prevent/blob/main/viz/app.py](https://github.com/magabrielaa/Invent2Prevent/blob/main/README.md)) for the Department of Homeland Security's Invent to Prevent (I2P) competition to reduce target violence and hate crime.
 
 - [Dashboard on vaccine uptake by US county](https://github.com/magabrielaa/proj-python_parser_tongues). The project retrieved vaccine data from the CDC's API and elections data using web scraping. US map built on Plotly Dash.
 
