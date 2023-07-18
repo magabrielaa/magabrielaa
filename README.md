@@ -30,7 +30,7 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
 
 
 ## Note
-_To adhere to academic integrity regulations and honor professors' intellectual property, school assignment repositories are kept private. Upon request, the code can be shared with potential employers_
+_To adhere to academic integrity regulations and honor professors' intellectual property, school assignment repositories are kept private. Upon request, the code can be shared with potential employers._
 
 ## 🔭 Projects
 
