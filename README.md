@@ -40,7 +40,7 @@ _To adhere to academic integrity regulations and honor professors' intellectual 
 
 - [CO2 Emissions Cafe](https://github.com/magabrielaa/co2-emissions-cafe), team entry for the UChicago 2023 Uncommon Hacks competition.
 
-- [Divvy Bikes Station Finder](https://github.com/magabrielaa/web-development/tree/main/wookieleaks-space-website), built with React. 
+- [Divvy Bikes Station Finder](https://github.com/magabrielaa/web-development/tree/main/divvy-bikes), built with React. 
 
 
 ### (5) UI/UX
