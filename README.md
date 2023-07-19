@@ -88,8 +88,6 @@ Feel free to contact me through [Linkedin](https://www.linkedin.com/in/mariagabr
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=magabrielaa)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magabrielaa)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **magabrielaa/magabrielaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
