@@ -49,7 +49,7 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
 ### (6) Others
 
 - Web scraping and web crawler with Beautiful Soup
-- ML Classification Algorithms: Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression
+- ML Classification Algorithms: Decision Tree, Perceptron, Logistic Regression, Neural Networks
 - Visualizing Avian Biodiversity Using Treemaps with Recursion
 - Polling Simulator
 
