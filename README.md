@@ -23,7 +23,7 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
 
 ### (2) Cloud Computing and Large Scale Computing
 
-- Full stack web application to process genomics sequences using AWS services to upload, annotate, notify, archive, and restore files on the cloud.
+- [Full stack AWS web application](https://github.com/magabrielaa/aws-cloud-computing) to process genomics sequences with functionalities to upload, annotate, notify, archive, and restore files on the cloud.
 - [Large Scale Computing](https://github.com/magabrielaa/large-scale-computing) and cluster computing. Repository contains parallel programming principles, AWS, CPU vs. GPU usage, and PySpark application.
 
 
