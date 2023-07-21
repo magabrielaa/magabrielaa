@@ -8,7 +8,7 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
 
 ## 🔭 Projects
 
-### (1) Data Visualiztion
+### (1) Data Visualization
 
 -  [Rising Poverty in Ecuador: Indigenous Peoples and Females at Risk](https://magabrielaa.github.io/data-visualization/final_project/index.html). Data visualization using D3.js to explore poverty patterns in Ecuador. [See code](https://github.com/magabrielaa/data-visualization/tree/main/final_project).
 
