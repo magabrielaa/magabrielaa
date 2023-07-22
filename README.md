@@ -81,7 +81,9 @@ I hold an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.u
 - [Perfect Gift app prototype](https://github.com/magabrielaa/ui-ux/tree/main/5-gift-app), made in Figma.
 
 - [Course Registration website redesign](https://github.com/magabrielaa/ui-ux-design/tree/main/4-course-registration-web) prototype built in Figma.
-  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=magabrielaa&theme=ayu-light&mode=weekly)](https://git.io/streak-stats)
+
 ## 📫 How to reach me
 
 [<img align="left" width="22px" src="https://github.com/magabrielaa/personal-website/blob/main/images/website.svg" />][website]
@@ -91,12 +93,6 @@ I hold an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.u
 [website]: https://mariagabrielaayala.com
 [linkedin]: https://www.linkedin.com/in/mariagabrielaayala/
 [Gmail]: mailto:ayala.mariagabriela@gmail.com
-
-
-<br>
-<br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=magabrielaa&theme=ayu-light&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **magabrielaa/magabrielaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
