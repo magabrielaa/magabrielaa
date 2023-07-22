@@ -94,6 +94,10 @@ I hold an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.u
 [linkedin]: https://www.linkedin.com/in/mariagabrielaayala/
 [Gmail]: mailto:ayala.mariagabriela@gmail.com
 
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{magabrielaa}/count.svg)
+
+
 <!--
 **magabrielaa/magabrielaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
