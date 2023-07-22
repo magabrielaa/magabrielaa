@@ -84,9 +84,11 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
   
 ## 📫 How to reach me
 
+[<img align="left" width="22px" src="https://github.com/magabrielaa/personal-website/blob/main/images/website.svg" />][website]
 [<img align="left" width="22px" src="https://github.com/magabrielaa/personal-website/blob/main/images/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://github.com/magabrielaa/personal-website/blob/main/images/gmail.svg" />][gmail]
 
+[website]: https://mariagabrielaayala.com
 [linkedin]: https://www.linkedin.com/in/mariagabrielaayala/
 [gmail]: ayala.mariagabriela@gmail.com
 
