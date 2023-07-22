@@ -1,5 +1,9 @@
 # Hello there 👋🏽
 
+[<img align="left" width="22px" src="https://github.com/magabrielaa/personal-website/blob/main/images/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mariagabrielaayala/
+
 My name is Maria Gabriela Ayala, I hold an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.uchicago.edu)) from the University of Chicago, a Master in Public Administration ([MPA](https://www.lse.ac.uk/school-of-public-policy)) from the London School of Economics and a BA in Economics, Chinese, and Italian from [Vassar College](https://www.vassar.edu).
 
 My interests lie at the intersection between data 📊, technology 💻, and public policy 🏛️ with the aim of improving people's lives and tackle complex social challenges!
