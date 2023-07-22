@@ -95,7 +95,8 @@ I hold an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.u
 [Gmail]: mailto:ayala.mariagabriela@gmail.com
 
 <br>
-![Visitor Count](https://profile-counter.glitch.me/{magabrielaa}/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/magabrielaa/count.svg)
 
 
 <!--
