@@ -90,7 +90,8 @@ My interests lie at the intersection between data 📊, technology 💻, and pub
 
 [website]: https://mariagabrielaayala.com
 [linkedin]: https://www.linkedin.com/in/mariagabrielaayala/
-[gmail]: ayala.mariagabriela@gmail.com
+[Gmail]: mailto:ayala.mariagabriela@gmail.com
+
 
 <br>
 <br>
