@@ -97,7 +97,7 @@ I hold an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.u
 <br>
 <br>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=<magabrielaa>)
+![GitHub Views](https://komarev.com/ghpvc/?username=magabrielaa)
 
 
 
