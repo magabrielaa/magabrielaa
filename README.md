@@ -64,7 +64,7 @@ My name is Maria Gabriela Ayala, my interests lie at the intersection between da
 
 ### (5) Databases
 
--  REST API of restaurant inspections, linked to database using SQLite and Flask
+-  [REST API](https://github.com/magabrielaa/databases/tree/main/api-restaurant-inspections) of restaurant inspections, linked to database using SQLite3 and Flask
 
 ### (6) Others
 
