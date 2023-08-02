@@ -43,7 +43,7 @@ My name is Maria Gabriela Ayala, my interests lie at the intersection between da
 
 ### (2) Cloud Computing and Large Scale Computing
 
-- [Full stack AWS web application](https://github.com/magabrielaa/aws-cloud-computing) to process genomics sequences with functionalities to upload, annotate, notify, archive, and restore files on the cloud.
+- Full stack AWS web application to process genomics sequences with functionalities to upload, annotate, notify, archive, and restore files on the cloud.
 - [Large Scale Computing](https://github.com/magabrielaa/large-scale-computing) and cluster computing. Repository contains parallel programming principles, AWS, CPU vs. GPU usage, and PySpark application.
 
 
