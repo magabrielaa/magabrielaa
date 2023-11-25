@@ -34,7 +34,7 @@ My name is Maria Gabriela Ayala, my interests lie at the intersection between da
 
 - [Prototype for participatory budgeting in Chicago wards](https://github.com/magabrielaa/ue-pb), programmed feedback page in D3.js to increase citizen engagement and transparency.
 
-- Dashboard on Mexico's workforce Development, built in Dash with Plotly. _Private repository to safeguard government data, please contact me for more information._
+- Dashboard on Mexico's workforce Development, built in Dash with Plotly. _Private repository to safeguard government data, please contact me for more information._ [Here is a video of the end result.](https://github.com/magabrielaa/workforce-development/blob/main/README.md)
 
 - [Dashboard on violence against people with disabilities](https://github.com/magabrielaa/Invent2Prevent) for the Department of Homeland Security and the McCainInstitute's [Invent to Prevent (I2P)](https://www.mccaininstitute.org/programs/preventing-targeted-violence/invent2prevent/) competition to reduce target violence and hate crime.
 
