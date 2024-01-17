@@ -1,6 +1,6 @@
 # Hello there 👋🏽
 
-My name is Maria Gabriela Ayala, my interests lie at the intersection between data 📊, technology 💻, and public policy 🏛️! I am interested in building human-centered software and improving digital service delivery to improve people's lives and tackle complex social challenges.
+My name is Maria Gabriela Ayala, my interests lie at the intersection between data 📊, technology 💻, and public policy 🏛️. I am interested in using data science and technology to enact social impact and improve people's lives.
 
 🎓 I hold an MSc in Computational Analysis & Public Policy ([MSCAPP](https://capp.uchicago.edu)) from the University of Chicago, a Master in Public Administration ([MPA](https://www.lse.ac.uk/school-of-public-policy)) from the London School of Economics and a BA in Economics, Chinese, and Italian from [Vassar College](https://www.vassar.edu).
 
